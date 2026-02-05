@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="C:\Users\mrsea\Desktop\VSCODE\birdmessenger\target/birdmessenger-1.0-SNAPSHOT.jar" tofile="C:\Users\mrsea\Documents\Plugins\birdmessenger-1.0-SNAPSHOT.jar" />
+  </target>
+</project>
